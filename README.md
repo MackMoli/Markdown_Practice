@@ -10,14 +10,14 @@ This is my first attempt at practicing some of the Markdown syntax
 ##### Header 5
 ###### Header 6
 
-![Picture of Outkast] (https://media.npr.org/assets/img/2015/12/17/480935671_wide-ef4e68035679af56e464352b86bd75d4d26e1ee7-s1600-c85.jpg)
+Also learned how to embed photos:
+![Picture of Outkast](https://media.npr.org/assets/img/2015/12/17/480935671_wide-ef4e68035679af56e464352b86bd75d4d26e1ee7-s1600-c85.jpg)
 
 `This is a code bloc`
 
     This is a longer code bloc
 ``` This is a longer code bloc ```
 
-And links like google.com are automatic.
-But can also be coded in like such [search engine](google.com)
+I can also add in links like this one [here](google.com)
 
 I think I've done it right.
