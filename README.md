@@ -16,7 +16,7 @@ Also learned how to embed photos:
 `This is a code bloc`
 
     This is a longer code bloc
-``` This is a longer code bloc ```
+```this is a longer code bloc```
 
 I can also add in links like this one [here](google.com)
 
